@@ -1,5 +1,5 @@
+import { useEffect, useRef } from 'react';
 import * as THREE from 'three';
-import { useRef, useEffect } from 'react';
 
 const Page = () => {
   const ref = useRef<HTMLDivElement>(null);

@@ -1,5 +1,5 @@
-import * as THREE from 'three';
 import { useEffect } from 'react';
+import * as THREE from 'three';
 
 const Scene = () => {
   useEffect(() => {
