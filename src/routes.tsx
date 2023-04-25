@@ -1,8 +1,8 @@
 import { createBrowserRouter } from 'react-router-dom';
 
-import PageIndex from './pages/index';
 import PageGryffindor from './pages/gryffindor';
 import PageHufflepuff from './pages/hufflepuff';
+import PageIndex from './pages/index';
 import PageRavenclaw from './pages/ravenclaw';
 import PageSlytherin from './pages/slytherin';
 
